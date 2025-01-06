@@ -1,9 +1,9 @@
 /.idea/
 /.git/
 /.venv/
-/primato/*/migrations/
+/biodev/*/migrations/
 .env
-/primato/core/midia/*/
+/biodev/biodev/midia/*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
