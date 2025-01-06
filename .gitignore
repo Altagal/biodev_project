@@ -1,3 +1,10 @@
+/.idea/
+/.git/
+/.venv/
+/primato/*/migrations/
+.env
+/primato/core/midia/*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
