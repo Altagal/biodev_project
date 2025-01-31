@@ -38,6 +38,7 @@ INSTALLED_APPS = [
 
     'accounts',
     'home',
+    'embriao',
 ]
 
 MIDDLEWARE = [
